@@ -106,6 +106,6 @@ li a:hover {
 
 @media(max-width:700px){
   .pimg1, .pimg2, .pimg3, .pimg4, .pimg5, .pimg6{
-    background-attachment:scroll;
+    background-attachment: scroll;
   }
 }
